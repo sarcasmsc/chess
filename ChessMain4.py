@@ -1,5 +1,5 @@
 import pygame as p
-from Chess.images import ChessEngine5 as chess
+import ChessEngine5 as chess
 
 WIDTH = HEIGHT = 512
 DIMENSION = 8
